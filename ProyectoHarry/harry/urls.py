@@ -22,3 +22,5 @@ urlpatterns = {
     #url(r'^$', 'alertas.views.home')
 
 }
+
+#OTROOOOOO de Prueba de Rama Mica 
